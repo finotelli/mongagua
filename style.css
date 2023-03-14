@@ -23,11 +23,13 @@ p {
     
 }
 
-container {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    border: -500px solid #333;box-shadow: 5px 5px 8px 0 rgb(173, 173, 173);
+    background-image: linear-gradient(to right, black(54, 54, 54), black)
 }
 
 img {
