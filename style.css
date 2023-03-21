@@ -1,5 +1,8 @@
 body {
-    
+    background-image: url(plataforma.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
 
 h1{
@@ -13,7 +16,6 @@ h1{
 div.diferente {
     background-color: rgb(34, 100, 78);
     color: white;
-
     position: relative;
     left: 100px;
     
